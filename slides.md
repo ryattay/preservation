@@ -8,7 +8,7 @@ note:
 
 ---
 
-<img class="r-stretch" src="./media/carte-1966.png">
+<img class="r-stretch" src="https://github.com/ryattay/preservation/blob/main/media/carte-1966.png">
 
 <small>"L'approvisionnement en viande de l'Afrique du Centre Ouest : cartes d'ensemble et extrait du titre IV. 1966-1967." National Archives, 30V188, Ouagadougou, Burkina Faso.</small>
 
