@@ -2,7 +2,7 @@
 
 <br>
 
-Ryan Carty,<br>PhD Candidate, History, Michigan State University
+Ryan Carty<br>PhD Candidate, History, Michigan State University
 
 note: 
 
